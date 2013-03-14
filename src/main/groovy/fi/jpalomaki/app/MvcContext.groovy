@@ -1,4 +1,4 @@
-package fi.jpalomaki.template
+package fi.jpalomaki.app
 
 import java.util.List;
 
