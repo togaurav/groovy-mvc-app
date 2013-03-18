@@ -1,4 +1,3 @@
-
 Simple Groovy + Spring MVC (Servlet 3) web app template project built with Maven. No XML or Java.
 
 ### Eclipse setup
