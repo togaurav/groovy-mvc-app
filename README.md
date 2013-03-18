@@ -1,4 +1,6 @@
-Simple Groovy + Spring MVC (Servlet 3) web app template project built with Maven. No XML or Java.
+Simple Groovy + Spring MVC (Servlet 3) web app template project built with Maven.
+
+No XML (besides pom.xml) or Java code.
 
 ### Eclipse setup
 
